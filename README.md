@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Vist this react app [here](https://nervous-torvalds-835413.netlify.com/) 
+## Vist this react app [here](https://nervous-torvalds-835413.netlify.com/) 
 
 ## Available Scripts
 
